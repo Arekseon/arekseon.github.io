@@ -15,7 +15,7 @@ name: The Shed
 # Flags below are optional
 #
 
-![TheShed]({{ site.baseurl }}/images/2018-03-21.19.09.jpg)
+![_config.yml]({{ site.baseurl }}/images/2018-03-21.19.09.jpg)
 
 # Includes an icon in the footer for each username you enter
 footer-links:
