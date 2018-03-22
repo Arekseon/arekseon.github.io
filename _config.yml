@@ -16,6 +16,7 @@ name: The Shed
 #
 
 #![_config.yml]({{ site.baseurl }}/images/2018-03-21.19.09.jpg)
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 # Includes an icon in the footer for each username you enter
 footer-links:
